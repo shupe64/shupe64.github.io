@@ -23,7 +23,7 @@ email: bendshupe@gmail.com
 description: "Created for Data Science Processes" 
 baseurl:
 url: "https://shupe64.github.io" #  change this to "https://<your-github-username>.github.io"
-image:
+image: https://raw.githubusercontent.com/shupe64/shupe64.github.io/main/assets/images/20190315_184143.jpg
 author: Benjamin Shupe
 copyright:
 footer_description: 
